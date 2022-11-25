@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEC,sBAGC,YAAa","file":"main.1d71ad94.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.hiddenElement {\n  display: none;\n}\n"]}
